@@ -1,1 +1,1 @@
-# my-store
+# my-sto
